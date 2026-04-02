@@ -11,6 +11,7 @@ function  SAY(){
 
 
     console.log("hello everyone ");
+    //hello is call
 
     good()
 }
